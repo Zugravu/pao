@@ -30,16 +30,29 @@ Clasa Manage este clasa mea main, de acolo se face apelul catre servicii.
 
 Interogarile care se pot utiliza sunt si in clasa Manage in metoda Options.
 Acestea sunt:
+
 Crearea unui Restaurant - aceasat functie se apeleaza la inceput pentru a ne asigura ca exista cateva restaurante inainte de a incepe aplicatia.
+
 Crearea unui Client.
+
 Crearea unui Curier.
+
 Crearea unui Administrator.
+
 Adaugarea unui Restaurant.
+
 Afisarea tuturor Clientilor.
+
 Afisarea tuturor Curierilor.
+
 Afisarea tuturor Restaurantelor.
+
 Afisarea tuturor Comenzilor.
+
 Crearea unei comenzi noi.
+
 Schimbarea parolei unui Client - aceasta este posibila si pentru Curier si Administrator dar nu le-am mai inclus in meniu.
+
 Stergerea unui Client.
+
 Stergerea unui Restaurant.
