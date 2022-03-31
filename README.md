@@ -9,12 +9,19 @@ Odata ce un curier are asignata o comanda, aceasta nu va mai putea fi utilizat s
 Cele 8 tipuri de obiecte sunt:
 
 User - acesta este clasa de baza pentru un utilizator
+
 Customer - acesta clasa reprezinta clientii
+
 Courier - aceasat calsa reprezinta curierii
+
 Administrator - aceasta clasa reprezinta administratorii aplicatiei
+
 Order - aceasta clasa reprezinta comanda pe care o vor da clientii
+
 CustomerAddress - aceasta clasa reprezinta adresa unui client
+
 Restaurant - aceasta clasa reprezinta un restaurant
+
 MenuRestaurant - aceasta clasa contine produsele unui restaurant
 
 Pentru aproape fiecare clasa am si un serviciu, unde se afla operatiile claselor.
