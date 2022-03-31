@@ -1,5 +1,4 @@
-# pao
-Proiect PAO
+# Proiect PAO
 Pentru acest proiect am realizat schema unei firme de livrare de mancare.
 Pentru a incepe sa utilizezi aplicatia, trebuie mai intai sa se adauge macar un client si un curier. Apoi se poate da o comanda. 
 Pentru a da o coamnda trebuie selectat user-ul care vrea sa dea comanda, apoi curierul care sa i-o livreze.
