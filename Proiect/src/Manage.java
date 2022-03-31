@@ -82,6 +82,10 @@ public class Manage {
                 String customer = scanner.nextLine();
                 administratorService.DeleteRestaurant(restaurantService, customer);
             }
+            if(option == 13)
+            {
+                administratorService.AddRestaurant(restaurantService);
+            }
             if(option == 100)
                 run=false;
         }
@@ -101,6 +105,7 @@ public class Manage {
         System.out.println("Type 10 to show all Restaurant");
         System.out.println("Type 11 to remove a Customer");
         System.out.println("Type 12 to remove a Restaurant");
+        System.out.println("Type 13 to create a new Restaurant");
         Scanner scanner = new Scanner(System.in);
         int option = scanner.nextInt();
         scanner.nextLine();
